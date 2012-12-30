@@ -1,4 +1,4 @@
 test
 ====
 
-Sample Test
+Sample Test Project
